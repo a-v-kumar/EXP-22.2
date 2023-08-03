@@ -2,9 +2,9 @@
 
 2. After you add your folder to the top folder, you now need to run 5 steps from your terminal
 - cd ~/Documents/
-- git clone https://github.com/a-v-kumar/EXP-22.2.git
-- cd ~/Documents/EXP-22.2/ && python3 make_readme.py && git status && git add -A && git commit -m "Adding images" && git push
-- rm -rf ~/Documents/EXP-22.2/
+- git clone https://github.com/a-v-kumar/EXP_Images.git
+- cd ~/Documents/EXP_Images/ && python3 make_readme.py && git status && git add -A && git commit -m "Adding images" && git push
+- rm -rf ~/Documents/EXP_Images/
 
 Now, when you go to your github repo, you'll have all the images under the folder you had originally added in a nice and neat way.
 
