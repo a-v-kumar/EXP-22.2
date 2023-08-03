@@ -1,174 +1,100 @@
-# as moi5 pr5.jpg
+# AAV_shControl_MOI_1E5_DOX_0.1.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi5 pr5.jpg' width='300' />] | [<img src='copy/GREEN/as moi5 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi5 pr5.jpg' width='300' />]
+[<img src='EXP 22.2 AAV_shControl_with_DOX/BRIGHTFIELD/AAV_shControl_MOI_1E5_DOX_0.1.jpg' width='300' />] | [<img src='EXP 22.2 AAV_shControl_with_DOX/GREEN/AAV_shControl_MOI_1E5_DOX_0.1.jpg' width='300' />] | [<img src='EXP 22.2 AAV_shControl_with_DOX/MERGE/AAV_shControl_MOI_1E5_DOX_0.1.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi5 pr5.jpg' width='300' />]
+# AAV_shControl_MOI_1E5_DOX_5.jpg
 
-# as moi10 py5.jpg
+[<img src='EXP 22.2 AAV_shControl_with_DOX/BRIGHTFIELD/AAV_shControl_MOI_1E5_DOX_5.jpg' width='300' />] | [<img src='EXP 22.2 AAV_shControl_with_DOX/GREEN/AAV_shControl_MOI_1E5_DOX_5.jpg' width='300' />] | [<img src='EXP 22.2 AAV_shControl_with_DOX/MERGE/AAV_shControl_MOI_1E5_DOX_5.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/as moi10 py5.jpg' width='300' />] | [<img src='copy/GREEN/as moi10 py5.jpg' width='300' />] | [<img src='copy/MERGE/as moi10 py5.jpg' width='300' />]
+# AAV_shControl_MOI_1E5_DOX_1.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi10 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi10 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi10 py5.jpg' width='300' />]
+[<img src='EXP 22.2 AAV_shControl_with_DOX/BRIGHTFIELD/AAV_shControl_MOI_1E5_DOX_1.jpg' width='300' />] | [<img src='EXP 22.2 AAV_shControl_with_DOX/GREEN/AAV_shControl_MOI_1E5_DOX_1.jpg' width='300' />] | [<img src='EXP 22.2 AAV_shControl_with_DOX/MERGE/AAV_shControl_MOI_1E5_DOX_1.jpg' width='300' />]
 
-# as moi20 pr10.jpg
+# control_uninfected_NT_rep1.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi20 pr10.jpg' width='300' />] | [<img src='copy/GREEN/as moi20 pr10.jpg' width='300' />] | [<img src='copy/MERGE/as moi20 pr10.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/control_uninfected_NT_rep1.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi20 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi20 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi20 pr10.jpg' width='300' />]
+# pLenti_random_MOI_20_polybrene_5.jpg
 
-# astro moi1.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_20_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_20_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_20_polybrene_5.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/astro moi1.jpg' width='300' />] | [<img src='copy/GREEN/astro moi1.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/astro moi1.jpg' width='300' />]
+# pLenti_random_MOI_1_polybrene_5.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/astro moi1.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_1_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_1_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_1_polybrene_5.jpg' width='300' />]
 
-# as moi 5 py10.jpg
+# pLenti_random_MOI_5_protamine_10.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi 5 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi 5 py10.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_5_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_5_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_5_protamine_10.jpg' width='300' />]
 
-# as moi5.jpg
+# pLenti_random_MOI_5_polybrene_10.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi5.jpg' width='300' />] | [<img src='copy/GREEN/as moi5.jpg' width='300' />] | [<img src='copy/MERGE/as moi5.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_5_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_5_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_5_polybrene_10.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi5.jpg' width='300' />]
+# pLenti_random_MOI_5_protamine_5.jpg
 
-# as moi1 py10.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_5_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_5_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_5_protamine_5.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/as moi1 py10.jpg' width='300' />] | [<img src='copy/GREEN/as moi1 py10.jpg' width='300' />] | [<img src='copy/MERGE/as moi1 py10.jpg' width='300' />]
+# pLenti_random_MOI_10.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi1 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi1 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi1 py10.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_10.jpg' width='300' />]
 
-# as moi20.jpg
+# pLenti_random_MOI_10_protamine_5.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi20.jpg' width='300' />] | [<img src='copy/GREEN/as moi20.jpg' width='300' />] | [<img src='copy/MERGE/as moi20.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_10_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_10_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_10_protamine_5.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi20.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi20.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi20.jpg' width='300' />]
+# pLenti_random_MOI_1_protamine_10.jpg
 
-# as moi10 py10.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_1_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_1_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_1_protamine_10.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/as moi10 py10.jpg' width='300' />] | [<img src='copy/GREEN/as moi10 py10.jpg' width='300' />] | [<img src='copy/MERGE/as moi10 py10.jpg' width='300' />]
+# pLenti_random_MOI_1_polybrene_10.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi10 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi10 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi10 py10.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_1_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_1_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_1_polybrene_10.jpg' width='300' />]
 
-# as moi10 pr5.jpg
+# pLenti_random_MOI_10_polybrene_10.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi10 pr5.jpg' width='300' />] | [<img src='copy/GREEN/as moi10 pr5.jpg' width='300' />] | [<img src='copy/MERGE/as moi10 pr5.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_10_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_10_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_10_polybrene_10.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi10 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi10 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi10 pr5.jpg' width='300' />]
+# pLenti_random_MOI_10_protamine_10.jpg
 
-# as moi5 py5.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_10_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_10_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_10_protamine_10.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/as moi5 py5.jpg' width='300' />] | [<img src='copy/GREEN/as moi5 py5.jpg' width='300' />] | [<img src='copy/MERGE/as moi5 py5.jpg' width='300' />]
+# pLenti_random_MOI_20.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi5 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi5 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi5 py5.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_20.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_20.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_20.jpg' width='300' />]
 
-# nt astro wed.jpg
+# control_uninfected_NT.jpg
 
-[<img src='copy/BRIGHTFIELD/nt astro wed.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/nt astro wed.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/control_uninfected_NT.jpg' width='300' />]
 
-# as moi5 pr10.jpg
+# pLenti_random_MOI_20_protamine_5.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi5 pr10.jpg' width='300' />] | [<img src='copy/GREEN/as moi5 pr10.jpg' width='300' />] | [<img src='copy/MERGE/as moi5 pr10.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_20_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_20_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_20_protamine_5.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi5 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi5 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi5 pr10.jpg' width='300' />]
+# pLenti_random_MOI_5.jpg
 
-# as nt.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_5.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/as nt.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as nt.jpg' width='300' />]
+# pLenti_random_MOI_1_protamine_5.jpg
 
-# aav 0.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_1_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_1_protamine_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_1_protamine_5.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/aav 0.jpg' width='300' />] | [<img src='copy/GREEN/aav 0.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/aav 0.jpg' width='300' />]
+# pLenti_random_MOI_5_polybrene_5.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/aav 0.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_5_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_5_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_5_polybrene_5.jpg' width='300' />]
 
-# aav 1.jpg
+# pLenti_random_MOI_20_polybrene_10.jpg
 
-[<img src='copy/BRIGHTFIELD/aav 1.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/aav 1.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_20_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_20_polybrene_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_20_polybrene_10.jpg' width='300' />]
 
-# as moi20 py10.jpg
+# pLenti_random_MOI_20_protamine_10.jpg
 
-[<img src='copy/BRIGHTFIELD/as moi20 py10.jpg' width='300' />] | [<img src='copy/GREEN/as moi20 py10.jpg' width='300' />] | [<img src='copy/MERGE/as moi20 py10.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_20_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_20_protamine_10.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_20_protamine_10.jpg' width='300' />]
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi20 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi20 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi20 py10.jpg' width='300' />]
+# pLenti_random_MOI_10_polybrene_5.jpg
 
-# as moi1 py5.jpg
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_10_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_10_polybrene_5.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_10_polybrene_5.jpg' width='300' />]
 
-[<img src='copy/BRIGHTFIELD/as moi1 py5.jpg' width='300' />] | [<img src='copy/GREEN/as moi1 py5.jpg' width='300' />] | [<img src='copy/MERGE/as moi1 py5.jpg' width='300' />]
+# pLenti_random_MOI_1.jpg
 
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi1 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi1 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi1 py5.jpg' width='300' />]
-
-# as moi10.jpg
-
-[<img src='copy/BRIGHTFIELD/as moi10.jpg' width='300' />] | [<img src='copy/GREEN/as moi10.jpg' width='300' />] | [<img src='copy/MERGE/as moi10.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi10.jpg' width='300' />]
-
-# as moi20 py5.jpg
-
-[<img src='copy/BRIGHTFIELD/as moi20 py5.jpg' width='300' />] | [<img src='copy/GREEN/as moi20 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi20 py5.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi20 py5.jpg' width='300' />]
-
-# aav 5.jpg
-
-[<img src='copy/BRIGHTFIELD/aav 5.jpg' width='300' />] | [<img src='copy/GREEN/aav 5.jpg' width='300' />] | [<img src='copy/MERGE/aav 5.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/aav 5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/aav 5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/aav 5.jpg' width='300' />]
-
-# as moi1 pr10.jpg
-
-[<img src='copy/BRIGHTFIELD/as moi1 pr10.jpg' width='300' />] | [<img src='copy/GREEN/as moi1 pr10.jpg' width='300' />] | [<img src='copy/MERGE/as moi1 pr10.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi1 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi1 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi1 pr10.jpg' width='300' />]
-
-# as moi20 pr5.jpg
-
-[<img src='copy/BRIGHTFIELD/as moi20 pr5.jpg' width='300' />] | [<img src='copy/GREEN/as moi20 pr5.jpg' width='300' />] | [<img src='copy/MERGE/as moi20 pr5.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi20 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi20 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi20 pr5.jpg' width='300' />]
-
-# as moi10 pr10.jpg
-
-[<img src='copy/BRIGHTFIELD/as moi10 pr10.jpg' width='300' />] | [<img src='copy/GREEN/as moi10 pr10.jpg' width='300' />] | [<img src='copy/MERGE/as moi10 pr10.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi10 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi10 pr10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi10 pr10.jpg' width='300' />]
-
-# as moi1 pr5.jpg
-
-[<img src='copy/BRIGHTFIELD/as moi1 pr5.jpg' width='300' />] | [<img src='copy/GREEN/as moi1 pr5.jpg' width='300' />] | [<img src='copy/MERGE/as moi1 pr5.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/BRIGHTFIELD/as moi1 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi1 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi1 pr5.jpg' width='300' />]
-
-# _GREEN_9415.jpg
-
-[<img src='copy/GREEN/_GREEN_9415.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/_GREEN_9415.jpg' width='300' />]
-
-# aav1.jpg
-
-[<img src='copy/GREEN/aav1.jpg' width='300' />] | [<img src='copy/MERGE/aav1.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/aav1.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/aav1.jpg' width='300' />]
-
-# as moi5 py10.jpg
-
-[<img src='copy/GREEN/as moi5 py10.jpg' width='300' />] | [<img src='copy/MERGE/as moi5 py10.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/GREEN/as moi5 py10.jpg' width='300' />]
-
-[<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi5 py10.jpg' width='300' />]
-
-# as moi1.jpg
-
-[<img src='copy/MERGE/as moi1.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi1.jpg' width='300' />]
-
-# as moi 5 pr5.jpg
-
-[<img src='copy/MERGE/as moi 5 pr5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi 5 pr5.jpg' width='300' />]
-
-# as moi 20 py5.jpg
-
-[<img src='copy/MERGE/as moi 20 py5.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/as moi 20 py5.jpg' width='300' />]
-
-# aav0.jpg
-
-[<img src='copy/MERGE/aav0.jpg' width='300' />] | [<img src='exp22-2_8_2_23_24hrs_infection_astro_all/MERGE/aav0.jpg' width='300' />]
+[<img src='EXP 22.2 pLenti_random/BRIGHTFIELD/pLenti_random_MOI_1.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/GREEN/pLenti_random_MOI_1.jpg' width='300' />] | [<img src='EXP 22.2 pLenti_random/MERGE/pLenti_random_MOI_1.jpg' width='300' />]
 
