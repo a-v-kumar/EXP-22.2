@@ -41,7 +41,7 @@ def generate_readme(folder_path, image_links_dict):
             num_images = len(image_links)
             for i in range(0, num_images, 3):
                 row_images = image_links[i:i+3]
-                row_content = " | ".join(f"![{img_name}]({img_link_rel})" for img_name, img_link_rel in row_images)
+                row_content = " | ".join(f"[<img src='{img_link_rel}' width='200' />]({img_link_rel[:10]})" for img_name, img_link_rel in row_images)
                 readme_content += row_content + "\n\n"
 
         # Write the content to the README.md file in the respective folder
@@ -50,7 +50,7 @@ def generate_readme(folder_path, image_links_dict):
             readme_file.write(readme_content)
 
 if __name__ == "__main__":
-    root_folder = "images"  # Replace this with the name of your root folder
+    root_folder = "."  # Replace this with the name of your root folder
     for root, dirs, files in os.walk(root_folder):
         image_links_dict = generate_image_links(root)
 
