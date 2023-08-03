@@ -41,7 +41,7 @@ def generate_readme(folder_path, image_links_dict):
             num_images = len(image_links)
             for i in range(0, num_images, 3):
                 row_images = image_links[i:i+3]
-                row_content = " | ".join(f"[<img src='{img_link_rel}' width='300' />]({img_link_rel[:string.index('/')]})" for img_name, img_link_rel in row_images)
+                row_content = " | ".join(f"[<img src='{img_link_rel}' width='300' />]({img_link_rel})" for img_name, img_link_rel in row_images)
                 readme_content += row_content + "\n\n"
 
         # Write the content to the README.md file in the respective folder
