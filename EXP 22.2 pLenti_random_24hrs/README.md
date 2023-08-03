@@ -4,7 +4,7 @@
 
 # pLenti_random_MOI_20_polybrene_5.jpg
 
-[<img src='BRIGHTFIELD/pLenti_random_MOI_20_polybrene_5.jpg' width='300' />] | [<img src='GREEN/pLenti_random_MOI_20_polybrene_5.jpg' width='300' />] | [<img src='MERGE/pLenti_random_MOI_20_polybrene_5.jpg' width='300' />]
+[<img src='BRIGHTFIELD/pLenti_random_MOI_20_polybrene_5.jpg' width='500' />] | [<img src='GREEN/pLenti_random_MOI_20_polybrene_5.jpg' width='500' />] | [<img src='MERGE/pLenti_random_MOI_20_polybrene_5.jpg' width='500' />]
 
 # pLenti_random_MOI_1_polybrene_5.jpg
 
