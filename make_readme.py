@@ -70,6 +70,8 @@ def generate_readme(folder_path, image_links_dict):
 if __name__ == "__main__":
     root_folder = "."  # Replace this with the name of your root folder
     for root, dirs, files in os.walk(root_folder):
+        if root == root_folder:
+            continue  # Skip creating README.md in the root directory
         image_links_dict = generate_image_links(root)
 
         # Generate README.md file for the current folder
