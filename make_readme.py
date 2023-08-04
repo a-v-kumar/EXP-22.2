@@ -59,7 +59,7 @@ def generate_readme(folder_path, image_links_dict):
                 readme_content += row_content + "\n\n"
 
                 # Extract the folder name from the image link and display it below the image with large spaces between each folder name
-                folder_names = "                        ".join(f"<span style='letter-spacing: 10px;'>{extract_folder_name(img_link_rel)}</span>" for _, img_link_rel in row_images)
+                folder_names = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".join(extract_folder_name(img_link_rel) for _, img_link_rel in row_images)
                 readme_content += folder_names + "\n\n"
 
         # Write the content to the README.md file in the respective folder
