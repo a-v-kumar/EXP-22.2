@@ -34,7 +34,11 @@ def generate_readme(folder_path, image_links_dict):
     if image_links_dict:
         readme_content = ""
 
-        for image_name, image_links in image_links_dict.items():
+        # Sort the image names alphabetically
+        sorted_image_names = sorted(image_links_dict.keys())
+
+        for image_name in sorted_image_names:
+            image_links = image_links_dict[image_name]
             readme_content += f"# {image_name}\n\n"
 
             # Add image links to the readme in rows of three
