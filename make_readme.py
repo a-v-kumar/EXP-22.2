@@ -29,13 +29,17 @@ def generate_image_links(folder_path):
 
     return image_links_dict
 
+def natural_sort_key(s):
+    import re
+    return [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', s)]
+
 def generate_readme(folder_path, image_links_dict):
     # Generate the Markdown content for each image name and its images
     if image_links_dict:
         readme_content = ""
 
-        # Sort the image names alphabetically
-        sorted_image_names = sorted(image_links_dict.keys())
+        # Sort the image names alphabetically using the natural_sort_key function
+        sorted_image_names = sorted(image_links_dict.keys(), key=natural_sort_key)
 
         for image_name in sorted_image_names:
             image_links = image_links_dict[image_name]
