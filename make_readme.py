@@ -33,6 +33,12 @@ def natural_sort_key(s):
     import re
     return [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', s)]
 
+def extract_folder_name(img_link_rel):
+    # If '/' exists, extract the folder name; otherwise, return the entire link
+    if '/' in img_link_rel:
+        return img_link_rel[:img_link_rel.index('/')]
+    return img_link_rel
+
 def generate_readme(folder_path, image_links_dict):
     # Generate the Markdown content for each image name and its images
     if image_links_dict:
@@ -51,6 +57,10 @@ def generate_readme(folder_path, image_links_dict):
                 row_images = image_links[i:i+3]
                 row_content = " | ".join(f"[<img src='{img_link_rel}' width='300' />]" for img_name, img_link_rel in row_images)
                 readme_content += row_content + "\n\n"
+
+                # Extract the folder name from the image link and display it below the image with large spaces between each folder name
+                folder_names = "                        ".join(f"<span style='letter-spacing: 10px;'>{extract_folder_name(img_link_rel)}</span>" for _, img_link_rel in row_images)
+                readme_content += folder_names + "\n\n"
 
         # Write the content to the README.md file in the respective folder
         readme_file_path = os.path.join(folder_path, "README.md")
