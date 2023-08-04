@@ -49,7 +49,7 @@ def generate_readme(folder_path, image_links_dict):
 
         for image_name in sorted_image_names:
             image_links = image_links_dict[image_name]
-            readme_content += f"# {image_name}\n\n"
+            readme_content += f"### {image_name}\n\n"
 
             # Add image links to the readme in rows of three
             num_images = len(image_links)
