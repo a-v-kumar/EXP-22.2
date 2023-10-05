@@ -28,17 +28,17 @@ CN_AAV_DOX_0.01_72hrs.jpg
 
 CN_AAV_DOX_0.01_96hrs.jpg
 
-### CN_AAV_DOX_0.1_96hrs
-
-[<img src='CN_AAV_DOX_0.1_96hrs.jpg' width='300' />]
-
-CN_AAV_DOX_0.1_96hrs.jpg
-
 ### CN_AAV_DOX_0.01_120hrs
 
 [<img src='CN_AAV_DOX_0.01_120hrs.jpg' width='300' />]
 
 CN_AAV_DOX_0.01_120hrs.jpg
+
+### CN_AAV_DOX_.1_96hrs
+
+[<img src='CN_AAV_DOX_.1_96hrs.jpg' width='300' />]
+
+CN_AAV_DOX_.1_96hrs.jpg
 
 ### CN_LipoD_72hrs
 
