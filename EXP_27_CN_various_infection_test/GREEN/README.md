@@ -178,6 +178,12 @@ CN_MOI_10_96hrs.jpg
 
 CN_MOI_10_120hrs.jpg
 
+### CN_MOI_10_120hrs_rep2
+
+[<img src='CN_MOI_10_120hrs_rep2.jpg' width='300' />]
+
+CN_MOI_10_120hrs_rep2.jpg
+
 ### CN_MOI_10_protamine_2ug:mL_96hrs
 
 [<img src='CN_MOI_10_protamine_2ug:mL_96hrs.jpg' width='300' />]
@@ -213,12 +219,6 @@ CN_MOI_13_96hrs.jpg
 [<img src='CN_MOI_13_120hrs.jpg' width='300' />]
 
 CN_MOI_13_120hrs.jpg
-
-### CN_MOI_13_120hrs_rep2
-
-[<img src='CN_MOI_13_120hrs_rep2.jpg' width='300' />]
-
-CN_MOI_13_120hrs_rep2.jpg
 
 ### CN_MOI_13_protamine_2ug:mL_96hrs
 
